@@ -1,5 +1,5 @@
 <?php
-session_start();  // Start session if sessions are being used
+session_start(); 
 
 // Connecting MySQL to PHP
 

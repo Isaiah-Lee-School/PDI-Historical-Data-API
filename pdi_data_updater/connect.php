@@ -1,5 +1,4 @@
 <?php
-session_start(); 
 
 // Connecting MySQL to PHP
 
